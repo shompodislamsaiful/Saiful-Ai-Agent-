@@ -1,6 +1,6 @@
 # Saiful AI Agent Backend — Starter
 
-This is a **demo backend scaffold**, not a finished AI video-generation service.
+This is a **Mastar backend scaffold**, not a finished AI video-generation service.
 
 ## Included
 - FastAPI service with `/health` and `/` checks
